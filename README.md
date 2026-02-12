@@ -67,7 +67,5 @@ The aim of this project is to:
 
 **Geoff Thomas Jais**  
 Aspiring Data Analyst | Power BI Enthusiast  
-
-📧 Email: geoffthomasjais@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/geoff-thomas-jais  
 
