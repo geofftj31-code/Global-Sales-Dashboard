@@ -56,4 +56,5 @@ The aim of this project is to:
 ---
 
 ## 🚀 Author
-Your Name
+GEOFF THOMAS JAIS
+https://www.linkedin.com/in/geoff-thomas-jais/
