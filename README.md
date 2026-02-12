@@ -55,6 +55,19 @@ The aim of this project is to:
 
 ---
 
-## 🚀 Author
-GEOFF THOMAS JAIS
-https://www.linkedin.com/in/geoff-thomas-jais/
+## 📂 How to Open
+
+1. Download the `.pbix` file  
+2. Open using Power BI Desktop (free tool)  
+3. Use slicers (Year, Country, Segment) to explore insights  
+
+---
+
+## 👤 Author
+
+**Geoff Thomas Jais**  
+Aspiring Data Analyst | Power BI Enthusiast  
+
+📧 Email: geoffthomasjais@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/geoff-thomas-jais  
+
